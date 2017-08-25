@@ -1,0 +1,9 @@
+c:\users\gabriel.vieira\documents\visual studio 2015\Projects\Calculadora de Dano RPG\Calculadora de Dano RPG\bin\Debug\Calculadora de Dano RPG.exe.config
+c:\users\gabriel.vieira\documents\visual studio 2015\Projects\Calculadora de Dano RPG\Calculadora de Dano RPG\bin\Debug\Calculadora de Dano RPG.exe
+c:\users\gabriel.vieira\documents\visual studio 2015\Projects\Calculadora de Dano RPG\Calculadora de Dano RPG\bin\Debug\Calculadora de Dano RPG.pdb
+c:\users\gabriel.vieira\documents\visual studio 2015\Projects\Calculadora de Dano RPG\Calculadora de Dano RPG\obj\Debug\Calculadora de Dano RPG.csprojResolveAssemblyReference.cache
+c:\users\gabriel.vieira\documents\visual studio 2015\Projects\Calculadora de Dano RPG\Calculadora de Dano RPG\obj\Debug\Calculadora_de_Dano_RPG.Form1.resources
+c:\users\gabriel.vieira\documents\visual studio 2015\Projects\Calculadora de Dano RPG\Calculadora de Dano RPG\obj\Debug\Calculadora_de_Dano_RPG.Properties.Resources.resources
+c:\users\gabriel.vieira\documents\visual studio 2015\Projects\Calculadora de Dano RPG\Calculadora de Dano RPG\obj\Debug\Calculadora de Dano RPG.csproj.GenerateResource.Cache
+c:\users\gabriel.vieira\documents\visual studio 2015\Projects\Calculadora de Dano RPG\Calculadora de Dano RPG\obj\Debug\Calculadora de Dano RPG.exe
+c:\users\gabriel.vieira\documents\visual studio 2015\Projects\Calculadora de Dano RPG\Calculadora de Dano RPG\obj\Debug\Calculadora de Dano RPG.pdb
